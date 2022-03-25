@@ -1,0 +1,17 @@
+canvas {
+  border: 1px solid black;
+}
+
+#canvas-div {
+  padding: 5px;
+}
+body {
+  padding-left: 30%;
+}
+#controls {
+  display: block;
+  margin-bottom: 1%;
+}
+#btn-1 {
+  display: block;
+}
